@@ -3,7 +3,7 @@ title: ホーム
 layout: pages
 ---
 
-# 山口大学体育会馬術部　
+# Welcome to Yamaguchi-Univ. Equestrian Club
 ![](img/IMG-3079.JPG)
 
 　現在、部員4名と馬匹4頭で活動中です。
@@ -12,9 +12,9 @@ layout: pages
 
 ## [新入部員募集中](部員募集.html)
  
-### [馬匹紹介](馬匹紹介.html)
-![](img/IMG_7868.JPG)
-![](img/IMG_79200.jpg)
+### 馬匹紹介
+![](img/IMG_7799.JPG)
+![](img/ana.jpg)
 ![](img/IMG_7879.JPG)
 ![](img/IMG_7575.JPG)
 
