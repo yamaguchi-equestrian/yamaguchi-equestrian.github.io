@@ -21,10 +21,10 @@ layout: pages
 
  
 ### 【馬匹紹介】
-<a href="モエレトレジャー.html">![](img/IMG_7799.JPG)</a>
-<a href="アナバティック.html">![](img/ana.jpg)</a>
-<a href="シマカゼ.html">![](img/IMG_7879.JPG)</a>
-<a href="ドラゴンメッシュ.html">![](img/IMG_7575.JPG)</a>
+<a href="モエレトレジャー.html">![](img/IMG_7799.JPG)</a><!---->
+<a href="アナバティック.html">![](img/ana.jpg)</a><!---->
+<a href="シマカゼ.html">![](img/IMG_7879.JPG)</a><!---->
+<a href="ドラゴンメッシュ.html">![](img/IMG_7575.JPG)</a><!---->
 
 　当馬術部の在厩馬をご紹介いたします。各馬の詳細につきましては、画像をクリックしてご覧ください。
 <br><br>
