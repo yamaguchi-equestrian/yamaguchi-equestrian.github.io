@@ -4,6 +4,8 @@ layout: pages
 ---
 
 # ∼Welcome to Yamaguchi-Univ. Equestrian Club∼
+※ パソコンからご覧いただく方が配置が美しく見やすいです🙇
+<br><br>
 ![](img/IMG-3079.JPG)
 
 　現在、部員4名と馬匹4頭で活動中です。
